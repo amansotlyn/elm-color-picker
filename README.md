@@ -1,1 +1,0 @@
-# elm-color-picker
